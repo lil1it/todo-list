@@ -1,5 +1,14 @@
 .App {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 5rem;
+  width: 80rem;
+  padding-top: 2rem;
+  border-radius: 1rem;
+  border: none;
+  box-shadow: #5d2d6ea8 1rem 25px 10px;
+  background:linear-gradient(violet , rgb(238, 150, 238) ,rgb(168, 94, 237), blueviolet);
 }
 
 .App-logo {
